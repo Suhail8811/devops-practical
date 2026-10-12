@@ -1,2 +1,2 @@
 DevOps Practical Application
-Project status: development branch update
+Project status: development and feature changes merged
